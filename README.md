@@ -13,6 +13,6 @@ Koopa code Portfolio Site Source
 You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D 
 
 
-This is a simple responsive portfolio website template that I made for the oublic. You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors.
+This is a simple responsive portfolio website that I made for the Public. You can use it and make it yours by changing things and colors to your style and liking! I made it with a lot of hard work, love and of course with code :) I'm not a professional coder, but i tried my best to make it look cool and yet still keep it simple. While working with JS i got many errors.
 
 > Mistakes are proof that we are trying!
